@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+numpy
+
+If you want to be explicit about Python:
+opencv-python>=4.8
+mediapipe>=0.10
+numpy>=1.24
