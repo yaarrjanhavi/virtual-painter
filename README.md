@@ -13,14 +13,6 @@ Draw in the air using your index finger and see it appear on screen in real time
   - `S` – save current drawing as `drawing.png`
   - `Q` – quit
 
-## Screenshots
-
-| Drawing view 1 | Drawing view 2 | Drawing view 3 |
-| -------------- | -------------- | -------------- |
-| ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) | ![Screenshot 3](assets/screenshot3.png) |
-
-> Place your three images in an `assets/` folder and rename them to `screenshot1.png`, `screenshot2.png`, `screenshot3.png`, or update the paths above.
-
 ## Installation
 
 1. Clone the repository:
